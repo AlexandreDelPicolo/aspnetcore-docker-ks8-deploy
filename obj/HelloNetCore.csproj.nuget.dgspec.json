@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\60003491\\projetos\\pessoal\\HelloNetCore\\HelloNetCore.csproj": {}
+    "c:\\Users\\60003491\\projetos\\pessoal\\aspnetcore-docker-ks8-deploy\\HelloNetCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\60003491\\projetos\\pessoal\\HelloNetCore\\HelloNetCore.csproj": {
+    "c:\\Users\\60003491\\projetos\\pessoal\\aspnetcore-docker-ks8-deploy\\HelloNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\60003491\\projetos\\pessoal\\HelloNetCore\\HelloNetCore.csproj",
+        "projectUniqueName": "c:\\Users\\60003491\\projetos\\pessoal\\aspnetcore-docker-ks8-deploy\\HelloNetCore.csproj",
         "projectName": "HelloNetCore",
-        "projectPath": "C:\\Users\\60003491\\projetos\\pessoal\\HelloNetCore\\HelloNetCore.csproj",
+        "projectPath": "c:\\Users\\60003491\\projetos\\pessoal\\aspnetcore-docker-ks8-deploy\\HelloNetCore.csproj",
         "packagesPath": "C:\\Users\\60003491\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\60003491\\projetos\\pessoal\\HelloNetCore\\obj\\",
+        "outputPath": "c:\\Users\\60003491\\projetos\\pessoal\\aspnetcore-docker-ks8-deploy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\60003491\\AppData\\Roaming\\NuGet\\NuGet.Config",
